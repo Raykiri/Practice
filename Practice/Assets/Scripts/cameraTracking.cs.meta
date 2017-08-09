@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5987a10df7398904a810ba78b5f375e7
+timeCreated: 1471961621
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 195246, guid: 31a0e14c306ec5e46ae2d61303b0b2fd, type: 2}
+  - Background: {fileID: 170678, guid: 7cee81cf49257bb4fafdf137385156d2, type: 2}
+  - walls: {fileID: 117052, guid: fc8d59b4d4ba28646b0269c7cd484064, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
